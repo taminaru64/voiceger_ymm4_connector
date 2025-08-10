@@ -6,7 +6,7 @@ YMM4のテキスト欄に入力した文章を、Voicegerで音声合成し、�
 
 ## 使用方法
 以下の動画で解説していますので、詳しい手順は動画をご覧ください。  
-https://www.youtube.com/watch?v=XXXX
+https://www.youtube.com/watch?v=F0EASa1FNAk
 
 ## ライセンス
 MIT ライセンス
